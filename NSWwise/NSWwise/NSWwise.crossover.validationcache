@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="75">
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2362812544" DateHigh="30625086"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Attenuations\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
@@ -26,8 +27,8 @@
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Modulators\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
-	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="1212812544" DateHigh="30625086"/>
-	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="2452812544" DateHigh="30625086"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="2352812544" DateHigh="30625086"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Presets\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Queries\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Queries\Factory Queries.wwu" DateLow="2018992896" DateHigh="30623899"/>
