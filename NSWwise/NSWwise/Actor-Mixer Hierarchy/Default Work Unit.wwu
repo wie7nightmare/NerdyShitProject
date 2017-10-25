@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{A8C6EF39-44B9-454B-BA31-976CD2BB3D8C}" SchemaVersion="75">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{A8C6EF39-44B9-454B-BA31-976CD2BB3D8C}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{A8C6EF39-44B9-454B-BA31-976CD2BB3D8C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Master" ID="{2E3097D0-6339-4ED7-8DA9-3B1A5F42FC59}" ShortID="714978671"/>
+				<Folder Name="Work - JeffQ" ID="{38329AF0-DE6D-48BB-94EF-E548B34B06CC}" ShortID="830023130"/>
+				<Folder Name="Work - JeffH" ID="{C38A5A1E-B5E2-41A7-92AC-522B96E34A46}" ShortID="816974506"/>
+				<Folder Name="Work - Sandy" ID="{3695C5F2-E966-41BD-BAF7-6CD8BBB14097}" ShortID="207277050"/>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>
