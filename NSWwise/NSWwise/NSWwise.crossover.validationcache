@@ -1,8 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="75">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1852747136" DateHigh="30625084"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Attenuations\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Audio Devices\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+>>>>>>> parent of 01a24b1... Merge branch 'master' of https://github.com/wie7nightmare/NerdyShitProject
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Conversion Settings\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+<<<<<<< HEAD
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="3007779840" DateHigh="30625085"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="2018992896" DateHigh="30623899"/>
+=======
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Modulators\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="1852747136" DateHigh="30625084"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Presets\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Queries\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Queries\Factory Queries.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\SoundBanks\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\States\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Switches\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Triggers\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3712747136" DateHigh="30625084"/>
+=======
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3592747136" DateHigh="30625084"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Attenuations\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Audio Devices\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Conversion Settings\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory Auro Headphone.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory Effects.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Delay.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Dynamics.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Filters.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Effects\Factory McDSP Effects.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Events\Default Work Unit.wwu" DateLow="3307714432" DateHigh="30625083"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Game Parameters\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Modulators\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="3592747136" DateHigh="30625084"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Presets\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Queries\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Queries\Factory Queries.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\SoundBanks\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\States\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Switches\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Triggers\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+>>>>>>> ea17f00d926292b2f93f0f399700741bb991239a
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Attenuations\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Audio Devices\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Conversion Settings\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory Auro Headphone.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory Effects.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Delay.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Dynamics.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Filters.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory McDSP Effects.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Events\Default Work Unit.wwu" DateLow="2012616320" DateHigh="30625080"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Game Parameters\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Modulators\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="3712747136" DateHigh="30625084"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Presets\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Queries\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Queries\Factory Queries.wwu" DateLow="1938535040" DateHigh="30623885"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\SoundBanks\Default Work Unit.wwu" DateLow="2012616320" DateHigh="30625080"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\States\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Switches\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Triggers\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+>>>>>>> parent of 01a24b1... Merge branch 'master' of https://github.com/wie7nightmare/NerdyShitProject
 </ValidationCache>
