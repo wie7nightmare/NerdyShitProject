@@ -37,7 +37,7 @@
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\States\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Switches\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Triggers\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
-	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3712747136" DateHigh="30625084"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Attenuations\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
@@ -57,18 +57,19 @@
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Effects\Factory McDSP Effects.wwu" DateLow="1938535040" DateHigh="30623885"/>
-	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Events\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Events\Default Work Unit.wwu" DateLow="2012616320" DateHigh="30625080"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Game Parameters\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1938535040" DateHigh="30623885"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Modulators\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="3712747136" DateHigh="30625084"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Presets\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Queries\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Queries\Factory Queries.wwu" DateLow="1938535040" DateHigh="30623885"/>
-	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\SoundBanks\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
+	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\SoundBanks\Default Work Unit.wwu" DateLow="2012616320" DateHigh="30625080"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\States\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Switches\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
