@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="75">
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1852747136" DateHigh="30625084"/>
+=======
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2962747136" DateHigh="30625084"/>
+>>>>>>> b1b98d3f1fe2f36c64d4f19e674dadbd2d6fe4da
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Attenuations\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
@@ -28,7 +32,11 @@
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Modulators\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+<<<<<<< HEAD
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="1852747136" DateHigh="30625084"/>
+=======
+	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.crossover.wsettings" DateLow="3062747136" DateHigh="30625084"/>
+>>>>>>> b1b98d3f1fe2f36c64d4f19e674dadbd2d6fe4da
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\NSWwise.wproj" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Presets\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Queries\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
@@ -38,7 +46,10 @@
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\States\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Switches\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Triggers\Default Work Unit.wwu" DateLow="2018992896" DateHigh="30623899"/>
+<<<<<<< HEAD
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3712747136" DateHigh="30625084"/>
+=======
+>>>>>>> b1b98d3f1fe2f36c64d4f19e674dadbd2d6fe4da
 =======
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3592747136" DateHigh="30625084"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="267452800" DateHigh="30625075"/>
@@ -77,6 +88,7 @@
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\States\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Switches\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\NerdyShitProject\NSWwise\NSWwise\Triggers\Default Work Unit.wwu" DateLow="267452800" DateHigh="30625075"/>
+>>>>>>> ea17f00d926292b2f93f0f399700741bb991239a
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4103960192" DateHigh="30623898"/>
 >>>>>>> ea17f00d926292b2f93f0f399700741bb991239a
 	<ValidationCacheItem File="Z:\Volumes\Hard drive\NerdyShitProject\NSWwise\NSWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1938535040" DateHigh="30623885"/>
